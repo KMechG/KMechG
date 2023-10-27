@@ -3,7 +3,9 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/karima-mechergui/)
 
 
-**Devops Engineer Certified DevOps Tools Engineer 2021 : 2 years freelance, 1 year trainer and technology enthusiast.**:wink:
+**Devops Engineer Certified DevOps Tools Engineer 2021 
+**Oracle Cloud Devops Professional 2023 
+3 years devops engineer, 1 year trainer and technology enthusiast.**:wink:
 
 
 I have a professional master's degree in information systems and infrastructure security : 
