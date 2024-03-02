@@ -3,7 +3,7 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/karima-mechergui/)
 As a highly personable and motivated professional, I bring over 12 years of comprehensive experience spanning various roles, including DevOps, development, and system administration, across esteemed organizations. My career is distinguished by a relentless pursuit of excellence and a deep commitment to leveraging technology to solve complex problems.
 I am proud to hold several prestigious certifications that underscore my expertise and commitment to continuous learning:
-- LPI DevOps Tools Engineer, certified in 2021.
+- LPI DevOps Tools Engineer LPI 701.
 - Oracle Cloud Infrastructure Certified DevOps Professional, awarded in 2023.
 - Additional certifications spanning a broad range of technical disciplines.
 I possess a professional master's degree in Security System Information and Infrastructure, with a specialization in Cybersecurity. This academic background has equipped me with a robust understanding of Network Security, Pentesting, Security Audit, DevSecOps, Kubernetes DevOps & Security, and the Secure Software Development Life Cycle (SSDLC).
