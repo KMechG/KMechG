@@ -18,7 +18,7 @@ My technical proficiency is extensive and includes:
 
 This diverse skill set, combined with my hands-on experience, enables me to drive innovation and efficiency in any technological landscape, making significant contributions to the organizations I am part of.
 
- I'm currently open for: A new job opportunity, [LINK TO MY RESUME](https://docs.google.com/document/d/1t-At3z-tMjD--Fqs7sQhfwMyVvJr2Pi90EAR23NpbD8/edit?usp=sharing).
+ I'm currently open for: A new job opportunity, [LINK TO MY RESUME](https://docs.google.com/document/d/192IuWpVX0lWla6qbW45x7u9WTgQWnMyaG97EVWkDnxU/edit?usp=sharing).
 
 
 
